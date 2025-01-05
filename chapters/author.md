@@ -11,6 +11,10 @@ kernelspec:
   name: python3
 ---
 
-# About the Author
+# Σχετικά με τη Συγγραφέα
 
-Dr. Qiusheng Wu is an Associate Professor in the Department of Geography & Sustainability at the University of Tennessee, Knoxville. In addition, he holds positions as an Amazon Visiting Academic and a Senior Research Fellow at the United Nations University. Specializing in geospatial data science and open-source software development, Dr. Wu is particularly focused on leveraging big geospatial data and cloud computing to study environmental changes, with an emphasis on surface water and wetland inundation dynamics. He is the creator of several open-source packages designed for advanced geospatial analysis and visualization, including geemap, leafmap, and segment-geospatial. For a closer look at his open-source contributions, please visit his GitHub repositories at <https://github.com/opengeos>.
+Η **Δρ. Σεβαστή Χαλκίδου** είναι Διπλ. Αγρονόμος & Τοπογράφος Μηχανικός και Επίκουρη Καθηγήτρια στο Τμήμα Αγρονόμων και Τοπογράφων Μηχανικών, της Πολυτεχνικής Σχολής του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης (Α.Π.Θ). Συμμετέχει στον Τομέα Κτηματολογίου, Φωτογραμμετρίας και Χαρτογραφίας του Τμήματος και είναι μέλος του Εργαστηρίου Κτηματολογίου και Συστημάτων Γεωγραφικών Πληροφοριών (CADGIS Lab). Το γνωστικό της αντικείμενο είναι "Κτηματολόγιο και Συστήματα Γεωγραφικών Πληροφοριών".  Έχει λάβει το Διδακτορικό της Δίπλωμα από το ίδιο Τμήμα με τίτλο "Δημιουργία Μοντέλου Πρόβλεψης Μεταβολών Χρήσεων Γης σε Αστικές και Περι-Αστικές Περιοχές με τη Χρήση των Δεδομένων του Κτηματολογίου" (2019) και κατέχει Μεταπτυχιακό Δίπλωμα από το University College London (UCL, 2009) με θέμα τον Ευρωπαϊκό Χωρικό Σχεδιασμό και τη Διαχείριση Ακίνητης Περιουσίας (MSc European Property Development and Planning).
+
+Έχει συμμετάσχει σε Εθνικά και Ευρωπαϊκά Ερευνητικά Προγράμματα ως επιστημονική συνεργάτιδα με αντικείμενο την ανάλυση χωρικών δεδομένων, το σχεδιασμό και την υλοποίηση εφαρμογών Συστημάτων Γεωγραφικών Πληροφοριών, την ανάλυση δεδομένων της αφοράς αινήτων και την εφαρμογή αλγορίθμων μηχανικής μάθησης σε αυτά, την οπτικοποίηση χωρικών δεδομένων μέσω τεχνολογιών AR, την προστασία της πολιτιστικής κληρονομιάς κ.τ.λ.
+
+Συμμετέχει ως διδάσκουσα στο Προπτυχιακό Πρόγραμμα Σπουδών του Τμήματος Αγρονόμων και Τοπογράφων Μηχανικών του Α.Π.Θ καθώς και στο Διατμηματικό Πρόγραμμα Μεταπτυχιακών Σπουδών "Κτηματολόγιο: Νομικές, Τεχνικές και Περιβαλλοντικές Διαστάσεις" του Α.Π.Θ.
