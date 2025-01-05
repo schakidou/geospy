@@ -36,7 +36,7 @@ launch_buttons:
 # HTML-specific settings
 html:
   favicon: "icon.png"
-  baseurl: "no-idea" # The base URL where your book will be hosted.
+  baseurl: "https://schakidou.github.io/geospy/" # The base URL where your book will be hosted.
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
