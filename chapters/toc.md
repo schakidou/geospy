@@ -11,16 +11,16 @@ kernelspec:
   name: python3
 ---
 
-# Πίνακας Περι
+# Πίνακας Περιεχομένων
 
-- [Chapter 1: Introducing GEE and Geemap](https://book.geemap.org/chapters/01_introduction.html)
-- [Chapter 2: Creating Interactive Maps](https://book.geemap.org/chapters/02_maps.html)
-- [Chapter 3: Using Earth Engine Data](https://book.geemap.org/chapters/03_gee_data.html)
-- [Chapter 4: Using Local Geospatial Data](https://book.geemap.org/chapters/04_local_data.html)
-- [Chapter 5: Visualizing Geospatial Data](https://book.geemap.org/chapters/05_data_viz.html)
-- [Chapter 6: Analyzing Geospatial Data](https://book.geemap.org/chapters/06_data_analysis.html)
-- [Chapter 7: Exporting Earth Engine Data](https://book.geemap.org/chapters/07_data_export.html)
-- [Chapter 8: Making Maps with Cartoee](https://book.geemap.org/chapters/08_cartoee.html)
-- [Chapter 9: Creating Timelapse Animations](https://book.geemap.org/chapters/09_timelapse.html)
-- [Chapter 10: Building Interactive Web Apps](https://book.geemap.org/chapters/10_webapps.html)
-- [Chapter 11: Earth Engine Applications](https://book.geemap.org/chapters/11_applications.html)
+- [Κεφάλαιο 1: Εισαγωγή](https://schakidou.github.io/geospy/chapters/01_introduction.html)
+- [Κεφάλαιο 2: Creating Interactive Maps](https://schakidou.github.io/geospy/chapters/02_maps.html)
+- [Κεφάλαιο 3: Using Earth Engine Data](https://schakidou.github.io/geospy/chapters/03_gee_data.html)
+- [Κεφάλαιο 4: Using Local Geospatial Data](https://schakidou.github.io/geospy/chapters/04_local_data.html)
+- [Κεφάλαιο 5: Visualizing Geospatial Data](https://schakidou.github.io/geospy/chapters/05_data_viz.html)
+- [Κεφάλαιο 6: Analyzing Geospatial Data](https://schakidou.github.io/geospy/chapters/06_data_analysis.html)
+- [Κεφάλαιο 7: Exporting Earth Engine Data](https://book.geemap.org/chapters/07_data_export.html)
+- [Κεφάλαιο 8: Making Maps with Cartoee](https://schakidou.github.io/geospy/chapters/08_cartoee.html)
+- [Κεφάλαιο 9: Creating Timelapse Animations](https://schakidou.github.io/geospy/chapters/09_timelapse.html)
+- [Κεφάλαιο 10: Building Interactive Web Apps](https://schakidou.github.io/geospy/chapters/10_webapps.html)
+- [Κεφάλαιο 11: Earth Engine Applications](hhttps://schakidou.github.io/geospy/chapters/11_applications.html)
